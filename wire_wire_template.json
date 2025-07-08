@@ -1,0 +1,40 @@
+{
+    "component_id": "",
+    "component_type": "wire_to_wire_connector",
+    "part_number": "",
+    "manufacturer": "",
+    "description": "",
+    "datasheet_url": "",
+    "shell": {
+        "material": "",
+        "finish": ""
+    },
+    "contacts": {
+        "material": "",
+        "plating": "",
+        "contact_part_number": ""
+    },
+    "mechanical": {
+        "positions": 0,
+        "pitch_mm": 0,
+        "wire_gauge_awg": {
+            "min": 0,
+            "max": 0
+        },
+        "mating_connector_part_number": ""
+    },
+    "electrical": {
+        "current_rating_a": 0,
+        "voltage_rating_v": 0
+    },
+    "environmental": {
+        "temperature_c": {
+            "min": 0,
+            "max": 0
+        }
+    },
+    "cad_data": {
+        "footprint_id": "",
+        "model_3d_url": ""
+    }
+}
